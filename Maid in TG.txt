@@ -1,2 +1,3 @@
 This file was made under a TortoiseGit checkout.
 Another line added.
+Added a 3rd line.
